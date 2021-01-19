@@ -41,7 +41,7 @@ Atualmente o MATLAB está na versão 9.9 (R2020b), de setembro de 2020. Não for
 
 ## :gear: Executando o TVMAT
 
-Todos os arquivos que compõem a aplicação deverão ser copiados para a pasta de trabalho do MATLAB, que por padrão é a C:\Matlab\work.
+Copiar todos os arquivos da pasta /source para a pasta de trabalho (/work) do MATLAB, que por padrão é a C:\Matlab\work.
 Ele deverá ser inicializado digitando-se: `tv` a partir da linha de comando do Matlab. Uma interface gráfica irá se abrir.
 
 ## :gear: Telas
