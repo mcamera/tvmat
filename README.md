@@ -44,7 +44,7 @@ Atualmente o MATLAB está na versão 9.9 (R2020b), de setembro de 2020. Não for
 Copiar todos os arquivos da pasta /source para a pasta de trabalho (/work) do MATLAB, que por padrão é a C:\Matlab\work.
 Ele deverá ser inicializado digitando-se: `tv` a partir da linha de comando do Matlab. Uma interface gráfica irá se abrir.
 
-## :gear: Telas
+## :desktop_computer: Telas
 
 <p align="center"><strong>Tela inicial</strong></p>
 <p align="center"><img src="images/tela1.gif" alt="TVMAT" width="378" height="260"></p>
@@ -62,7 +62,7 @@ Ele deverá ser inicializado digitando-se: `tv` a partir da linha de comando do 
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-## :memo: Citações
+## :loudspeaker: Citações
 
 Este projeto foi selecionado para a fase classificatória do I Concurso Teleco de Trabalhos de Conclusão de Curso (TCC) 2005.
 
