@@ -49,20 +49,14 @@ Ele deverá ser inicializado digitando-se: `tv` a partir da linha de comando do 
 <p align="center"><strong>Tela inicial</strong></p>
 <p align="center"><img src="images/tela1.gif" alt="TVMAT" width="378" height="260"></p>
 
-<p align="center"><strong>Novo projeto</strong></p>
-<p align="center"><img src="images/tela2.gif" alt="TVMAT" width="378" height="260"></p>
-
-<p align="center"><strong>Cadastro das estações</strong></p>
-<p align="center"><img src="images/tela3.gif" alt="TVMAT" width="344" height="191"></p>
-
-<p align="center"><strong>Cadastro das radiais</strong></p>
-<p align="center"><img src="images/tela4.gif" alt="TVMAT" width="282" height="323"></p>
-
 <p align="center"><strong>Exemplo de projeto</strong></p>
 <p align="center"><img src="images/tela5.gif" alt="TVMAT" width="377" height="269"></p>
 
 <p align="center"><strong>Exemplo de cadastro de estações</strong></p>
 <p align="center"><img src="images/tela6.gif" alt="TVMAT" width="344" height="192"></p>
+
+<p align="center"><strong>Exemplo de cadastro de radiais</strong></p>
+<p align="center"><img src="images/tela7.gif" alt="TVMAT" width="283" height="322"></p>
 
 ## :memo: Licença
 
